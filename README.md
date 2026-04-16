@@ -36,7 +36,9 @@ Make sure you have the following installed:
 
 ## Connecting     
 
-Download the client from the requirements and then launching it should connect through the local server.
+1. Download the client
+2. Launch the client
+3. The client should now connect through your local server
 
 ---
 
