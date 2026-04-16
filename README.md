@@ -1,6 +1,8 @@
 # Orion Hunt
 The first private server source for the abandoned steam game 'PIGGY: Hunt'
 
+### WARNING: At the moment, the client will only reach 60% but I will soon fix the problem in the future. 
+
 ---
 
 ## Requirements     
@@ -9,7 +11,7 @@ Make sure you have the following installed:
 
 - UwAmp Wamp Server [(download here)](https://www.uwamp.com/file/UwAmp.exe)
 - Fiddler Classic [(download here)](https://www.telerik.com/fiddler/fiddler-classic)
-- Client [(download here)](https://mega.nz/folder/1qt02byb#ZxDqEQh3sZLvNCPRpeY4yw)
+- Piggy Hunt Client [(download here)](https://mega.nz/folder/1qt02byb#ZxDqEQh3sZLvNCPRpeY4yw)
 
 ---
 
