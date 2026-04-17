@@ -49,7 +49,7 @@ Make sure you have the following installed:
 ---
 
 ## Disclaimer
-**Orion Hunt** uses resources from **Beamable**’s API and is not affiliated with **MiniToon** or **Shaggy Doge**.
+**Orion Hunt** uses resources from **Beamable**’s API and is not affiliated with **MiniToon**, **Shaggy Doge**, and **Beamable**.
 All rights to Piggy, Piggy: Intercity, and PIGGY: Hunt belong to their respective owners.
 
 If a takedown is requested by the original developers, this repository will be removed.
