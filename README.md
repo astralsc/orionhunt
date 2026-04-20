@@ -1,5 +1,5 @@
 # Orion Hunt
-The first private server source for the abandoned steam game 'PIGGY: Hunt'
+The first open source private server for the abandoned steam game 'PIGGY: Hunt'
 
 ### IMPORTANT NOTE: At the moment, the client will only reach 60% but I will soon fix the problem in the future. 
 
